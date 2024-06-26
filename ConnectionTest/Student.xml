@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<employee>
+    
+    <employee1>
+        <id>1</id>
+        <name>Rofiqul islam</name>
+        <position>Softwere Engineear</position>
+        <salary>60000</salary>  
+    </employee1>
+    
+    <employee2>
+        <id>2</id>
+        <name>Raju Ahamaed</name>
+        <position>Softwere Engineear</position>
+        <salary>70000</salary>  
+    </employee2>
+    
+    <employee3>
+        <id>3</id>
+        <name>Najmul islam</name>
+        <position>Softwere Engineear</position>
+        <salary>80000</salary>  
+    </employee3>
+    
+</employee>
+
